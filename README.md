@@ -13,6 +13,6 @@ Delete notes
 ## Technologies
 HTML, CSS, Javascript, Node.js and Express.js
 
-![alt text](public/assets/images/1.png)
+![alt text](public/assets/1.png)
 
-![alt text](public/assets/images/2.png)
+![alt text](public/assets/2.png)
