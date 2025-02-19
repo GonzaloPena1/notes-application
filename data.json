@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1739919955468,
+    "title": "What is a Data Structure?",
+    "description": "-A data structure is a storage format that defines the way data is stored, organized, and manipulated.\n\n-Some famous data structures are Arrays, Trees, and Graphs."
+  },
+  {
+    "id": 1739972363110,
+    "title": "What is an Array?",
+    "description": "-An array is commonly referred to as a collection of items stored at contiguous memory locations.\n\n-Items stored are of the same type.\n\n-It organizes data so that related values can be easily sorted or searched."
+  },
+  {
+    "id": 1739972591934,
+    "title": "What is a Linked List?",
+    "description": "-Like an array, a linked list refers to a linear data structure in which the elements are not necessarily stored in a contiguous manner.\n\n-It is basically a sequence of nodes, each node points towards the next node forming a chain-like structure."
+  },
+  {
+    "id": 1739973031569,
+    "title": "What Class?",
+    "description": "-A logical entity that defines the blueprint from which an object can be created or instantiated."
+  },
+  {
+    "id": 1739975671147,
+    "title": "What is a Stack?",
+    "description": "-A stack refers to a linear data structure performing operations in a LIFO (Last In First Out) order.\n\n-In a stack, elements can only be accessed, starting from the topmost to the bottom element."
+  },
+  {
+    "id": 1739975694011,
+    "title": "What is FIFO?",
+    "description": "-FIFO stands for First In First Out.\n\n-It is a way of accessing, storing and retrieving data.\n\n-The data that was stored first is extracted first."
+  },
+  {
+    "id": 1739975797194,
+    "title": "What is a Queue?",
+    "description": "-A queue refers to a linear data structure that performs operations in a FIFO order.\n\n-The least recently added elements are removed first instead of a stack in a queue."
+  },
+  {
+    "id": 1739975828121,
+    "title": "What is Inheritance?",
+    "description": "-A concept that refers to an object gaining all the properties and behaviors of a parent object. It provides code reusability."
+  },
+  {
+    "id": 1739975878473,
+    "title": "What is Recursion?",
+    "description": "-Recursion refers to a function calling itself based on a terminating condition.\n\n-It uses LIFO and, therefore, uses the stack data structure."
+  },
+  {
+    "id": 1739975980605,
+    "title": "What is an Object?",
+    "description": "-A real-world entity having a particular state and behavior. We can define it as an instance of a class."
+  },
+  {
+    "id": 1739976172299,
+    "title": "What is Polymorphism?",
+    "description": "-A concept that allows a task to be performed in different ways. In Java, we use method overloading and method overriding to achieve polymorphism."
+  },
+  {
+    "id": 1739976277019,
+    "title": "What is the OOPs concept?",
+    "description": "-OOPs stands for Object-Oriented Programming System, a paradigm that provides concepts such as objects, classes, and inheritance."
+  }
+]

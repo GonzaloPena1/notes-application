@@ -3,7 +3,44 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>Notebook</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="icon" type="image/x-icon" href="assets/pencil.png" />
   </head>
-  <body></body>
+  <body>
+    <header>
+      <!-- Navbar -->
+      <nav class="navbar">
+        <img src="./assets/pencil.png" alt="logo image" />
+        <h1 class="logo"><b>Notebook</b></h1>
+      </nav>
+    </header>
+    <main>
+      <!-- Note taker card -->
+      <div class="container">
+        <div class="note-taker">
+          <input class="title-input" id="noteTitle" placeholder="Title" />
+          <textarea id="noteDescription" placeholder="Description"></textarea>
+          <button class="btn-pink" id="addNote">
+            <i class="fa-solid fa-plus"></i> New Note
+          </button>
+        </div>
+      </div>
+      <h2 class="notes-h1">Your notes</h2>
+      <div class="card-container" id="notesList"></div>
+    </main>
+    <footer class="footer-basic">
+      <div class="back-to-top">⬆</div>
+      <p class="copyright">Company Name © 2018</p>
+    </footer>
+    <script src="script.js"></script>
+    <script
+      src="https://kit.fontawesome.com/4a002b7226.js"
+      crossorigin="anonymous"
+    ></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script type="text/javascript" src="./back-to-top-button.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  </body>
 </html>
